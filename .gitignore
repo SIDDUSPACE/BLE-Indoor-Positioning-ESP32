@@ -1,0 +1,43 @@
+# Arduino IDE
+*.ino.cpp
+*.ino.cpp.d
+*.elf
+*.hex
+*.bin
+
+# Build directories
+build/
+Build/
+Debug/
+Release/
+
+# PlatformIO
+.pio/
+.vscode/
+
+# ESP-IDF
+build/
+sdkconfig.old
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Python cache (if you use scripts)
+__pycache__/
+*.pyc
+
+# VS Code workspace (optional)
+*.code-workspacevideos/*.mp4
+videos/*.mp4
