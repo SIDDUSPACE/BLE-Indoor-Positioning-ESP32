@@ -916,6 +916,18 @@ RSSI         : -51 dBm
 5. Bluetooth Low Energy Indoor Localization Research Papers
 
 ---
+# 🏆 Awards & Recognition
+
+This work was presented as part of a technical paper presentation.
+
+📄 **Paper Presentation Certificate**
+
+- Location: `Certificates/Paper_Presentation_Certificate.pdf`
+
+
+This certificate recognizes the successful presentation of the research work titled:
+
+> **Design and Implementation of a Zone-Based BLE Indoor Localization System Using ESP32**
 
 # 🙏 Acknowledgements
 
