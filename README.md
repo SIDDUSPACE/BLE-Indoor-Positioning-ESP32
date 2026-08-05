@@ -601,7 +601,7 @@ The filtering algorithm significantly improved localization performance across a
 
 <div align="center">
 
-<img src="images/accuracy_comparison.png" width="850">
+<img src="Output/accuracy_comparison.png" width="850">
 
 **Figure 13. Zone Detection Accuracy Before and After Filtering**
 
@@ -644,7 +644,7 @@ These outputs were generated in real time after RSSI filtering and zone classifi
 
 <div align="center">
 
-<img src="images/system_initialization.png" width="800">
+<img src="Output/system_initialization.png" width="800">
 
 **Figure 14. System Initialization**
 
@@ -656,7 +656,7 @@ These outputs were generated in real time after RSSI filtering and zone classifi
 
 <div align="center">
 
-<img src="images/near_zone_output.png" width="800">
+<img src="Output/near_zone_output.png" width="800">
 
 **Figure 15. Near Zone Detection**
 
@@ -668,7 +668,7 @@ These outputs were generated in real time after RSSI filtering and zone classifi
 
 <div align="center">
 
-<img src="images/mid_zone_output.png" width="800">
+<img src="Output/mid_zone_output.png" width="800">
 
 **Figure 16. Mid Zone Detection**
 
@@ -680,7 +680,7 @@ These outputs were generated in real time after RSSI filtering and zone classifi
 
 <div align="center">
 
-<img src="images/far_zone_output.png" width="800">
+<img src="Output/far_zone_output.png" width="800">
 
 **Figure 17. Far Zone Detection**
 
@@ -692,7 +692,7 @@ These outputs were generated in real time after RSSI filtering and zone classifi
 
 <div align="center">
 
-<img src="images/zone_transition.png" width="800">
+<img src="Output/zone_transition.png" width="800">
 
 **Figure 18. Zone Transition Detection**
 
@@ -704,7 +704,7 @@ These outputs were generated in real time after RSSI filtering and zone classifi
 
 <div align="center">
 
-<img src="images/mid_to_far_transition.png" width="800">
+<img src="Output/mid_to_far_transition.png" width="800">
 
 **Figure 19. Mid-to-Far Zone Transition**
 
