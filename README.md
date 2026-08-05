@@ -955,27 +955,27 @@ See the LICENSE file for complete details.
 
 # 👨‍💻 Author
 
-## Siddharth
+## Siddarth S
 
 Bachelor of Engineering (ECE)
 
-Embedded Systems | IoT | Firmware Development
+Embedded Systems Engineer
 
 GitHub:
-https://github.com/yourusername
+https://github.com/SIDDUSPACE
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/siddarth-embedded/
 
 Email:
-yourmail@example.com
+siddarth.engineer@gmail.com
 
 ---
 
 <div align="center">
 
-## ⭐ If you found this project useful, please consider giving it a Star!
+## ⭐ If you found this project useful, consider giving it a Star!
 
-**Made with ❤️ using ESP32 and Bluetooth Low Energy**
+**Thank you**
 
 </div>
