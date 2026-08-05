@@ -500,7 +500,7 @@ The receiver was moved to different locations relative to the beacon while conti
 
 <div align="center">
 
-<img src="images/experimental_setup.jpg" width="850">
+<img src="images/experimental_setup.png" width="850">
 
 **Figure 9. Experimental Hardware Setup**
 
