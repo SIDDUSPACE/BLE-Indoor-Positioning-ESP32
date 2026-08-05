@@ -5,7 +5,7 @@ Paper Title:
 Design and Implementation of a Zone-Based BLE Indoor Localization System Using ESP32
 
 Authors:
-Siddarth.S , Praveen.S
+Siddarth.S , Akash.M
 
 ------------------------------------------------------------
 
