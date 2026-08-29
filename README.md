@@ -929,6 +929,15 @@ This certificate recognizes the successful presentation of the research work tit
 
 > **Design and Implementation of a Zone-Based BLE Indoor Localization System Using ESP32**
 
+📚 **Research Paper Publication**
+
+- **Conference:** Intelligent Systems for a Sustainable Future (ISSF 2026)
+- **Publication:** ITM Web of Conferences, Volume 85, Article 03007 (2026)
+- **DOI:** [10.1051/itmconf/20268503007](https://doi.org/10.1051/itmconf/20268503007)
+- **Published Paper:** [View Published Paper](Paper_Publish/Design_and_Implementation_of_a_Zone-Based_BLE_Indoor_Localization_System.pdf)
+
+The research presents a zone-based BLE indoor localization system using ESP32, RSSI filtering, and hysteresis-based zone stabilization. The experimental evaluation achieved an average filtered zone-detection accuracy of **91%** compared with **74%** using unfiltered RSSI.
+
 # 🙏 Acknowledgements
 
 This project was successfully completed as part of the Bachelor of Engineering (Electronics and Communication Engineering) Final Year Project.
